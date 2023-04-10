@@ -1,0 +1,8 @@
+# .NET Core and Visual Studio files
+.vscode/
+*.sln
+*.csproj
+*.csproj.user
+*.userprefs
+obj/
+bin/
